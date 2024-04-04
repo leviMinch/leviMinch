@@ -1,4 +1,8 @@
-### Hi there 👋
+#Welcome to my Profile!
+## About me
+Hi, my name is Levi Minch and I'm a sophmore at Oreogn State University with a major in Computer Science (AI Focus).
+
+
 
 <!--
 **leviMinch/leviMinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
