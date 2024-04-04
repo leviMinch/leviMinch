@@ -1,4 +1,4 @@
-#Welcome to my Profile!
+# Welcome to my Profile!
 ## About me
 Hi, my name is Levi Minch and I'm a sophmore at Oreogn State University with a major in Computer Science (AI Focus).
 
